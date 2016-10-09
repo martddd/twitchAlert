@@ -1,3 +1,3 @@
 fun main(args: Array<String>){
-    print("hello")
+    println("Эта программа будет выводить сообщение о новых followers")
 }
